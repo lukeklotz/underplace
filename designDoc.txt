@@ -1,0 +1,25 @@
+
+
+[] create skills class
+[] ability to gain XP in different skills
+
+
+
+[] ability to gather resources
+  resources to implement:
+    []wood (axe needed)
+    []ore (pickaxe needed)
+    []berries (none needed)
+
+[] ability to fight monsters
+  monsters to implement:
+    [x]goblins
+    []snakes
+
+
+
+**BEGINNER FRIENDLY**:
+  []update UI components
+  []in World.py, create a function for displaying the current position on map
+                 to help clean up code in the "travel(self)" function.
+          
